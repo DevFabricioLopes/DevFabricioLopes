@@ -38,24 +38,72 @@ Atualmente, estudo e desenvolvo projetos envolvendo:
 </p>
 
 ---
-### 🤖 Linguagens e Tecnologias
 
-<p align="left"> <!-- Linguagens --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" title="Python" alt="Python"/> <!-- Ferramentas / Ambiente --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" title="Docker" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px" title="Linux" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40px" title="Jupyter" alt="Jupyter"/> <!-- Data Science / Machine Learning --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40px" title="Pandas" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40px" title="NumPy" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40px" title="Scikit-Learn" alt="Scikit-Learn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40px" title="PyTorch" alt="PyTorch"/> <!-- Backend / APIs --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40px" title="FastAPI" alt="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px" title="Flask" alt="Flask"/> <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    width="40px"
-    title="Java"
-    alt="Java"
- />
-
- <!-- HTML / CSS / JS -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML5" alt="HTML5"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" title="CSS3" alt="CSS3"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" alt="JavaScript"/>
 
 </p>
 
 
 <br/><br/>
+## 🛠️ Tecnologias & Ferramentas
+
+
+<p align="left">
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+  <!-- Jupyter -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+  <!-- Scikit-Learn -->
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+  <!-- FastAPI -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+  <!-- LangChain -->
+  <img src="https://img.shields.io/badge/LangChain-1E90FF?style=for-the-badge&logo=chainlink&logoColor=white"/>
+
+  <!-- Transformers -->
+  <img src="https://img.shields.io/badge/Transformers-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+  <!-- OpenAI -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+  <!-- Pinecone -->
+  <img src="https://img.shields.io/badge/Pinecone-0057FF?style=for-the-badge&logo=pinecone&logoColor=white"/>
+
+  <!-- Milvus -->
+  <img src="https://img.shields.io/badge/Milvus-00A38C?style=for-the-badge&logo=milvus&logoColor=white"/>
+
+  <!-- Hugging Face -->
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  
+  <!-- Azure -->
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+
+</p>
+
+
+</p>
 
 
 ### 📊 Estatísticas
