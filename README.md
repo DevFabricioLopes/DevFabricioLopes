@@ -4,19 +4,17 @@
 
 **`Desenvolvedor | Python | IA | `**
 
-Me chamo Fabricio Lopes, sou do Rio de Janeiro e formado em Análise e Desenvolvimento de Sistemas. Hoje, estou focado em Python e Inteligência Artificial, criando projetos que integram automação, análise de dados, RAG e aplicações práticas com modelos de IA. Atualmente, estudo e desenvolvo projetos envolvendo:
+Me chamo Fabricio Lopes, sou formado em Análise e Desenvolvimento de Sistemas e atuo com foco em Python, Inteligência Artificial e automação. Tenho experiência desenvolvendo soluções que unem IA generativa, RAG, pipelines de dados, integrações com APIs e aplicações práticas orientadas ao negócio.
+
+Sou apaixonado por transformar problemas reais em sistemas inteligentes e escaláveis — sempre buscando aplicar boas práticas, aprender tecnologias de ponta e evoluir meus projetos com consistência.
+
+Atualmente, estudo e desenvolvo projetos envolvendo:
 
 🤖 IA Generativa (GenAI)
-
 🔎 RAG (Retrieval-Augmented Generation)
-
 🧩 LangChain e LLMOps
-
 📊 Automação, Web Scraping e Data Pipeline com Python
-
 🗄️ Integração com APIs, bancos de dados e serviços em nuvem
-
-
 
 
 
