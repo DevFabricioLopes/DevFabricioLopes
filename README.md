@@ -10,11 +10,12 @@ Sou apaixonado por transformar problemas reais em sistemas inteligentes e escal�
 
 Atualmente, estudo e desenvolvo projetos envolvendo:
 
-🤖 IA Generativa (GenAI)
-🔎 RAG (Retrieval-Augmented Generation)
-🧩 LangChain e LLMOps
-📊 Automação, Web Scraping e Data Pipeline com Python
-🗄️ Integração com APIs, bancos de dados e serviços em nuvem
+🤖 IA Generativa (GenAI)<br/>
+🔎 RAG (Retrieval-Augmented Generation)<br/>
+🧩 LangChain e LLMOps<br/>
+📊 Automação, Web Scraping e Data Pipeline com Python<br/>
+🗄️ Integração com APIs, bancos de dados e serviços em nuvem<br/>
+
 
 
 
