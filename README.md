@@ -45,8 +45,15 @@ Atualmente, estudo e desenvolvo projetos envolvendo:
     width="40px"
     title="Java"
     alt="Java"
-/>
- </p>
+ />
+
+ <!-- HTML / CSS / JS -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML5" alt="HTML5"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" title="CSS3" alt="CSS3"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" alt="JavaScript"/>
+
+</p>
+
 
 <br/><br/>
 
