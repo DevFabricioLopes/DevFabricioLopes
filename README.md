@@ -40,7 +40,7 @@ Atualmente, estudo e desenvolvo projetos envolvendo:
 ---
 
 
-</p>
+
 
 
 <br/><br/>
