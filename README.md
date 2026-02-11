@@ -125,6 +125,7 @@ Atualmente, estudo e desenvolvo projetos envolvendo:
 
 <br/><br/>
 
-![Snake animation](https://github.com/DevFabricioLopes/DevFabricioLopes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/DevFabricioLopes/DevFabricioLopes/output/github-contribution-grid-snake-dark.svg)
+
 
 
