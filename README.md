@@ -106,24 +106,17 @@ Atualmente, estudo e desenvolvo projetos envolvendo:
 </p>
 
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=DevFabricioLopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=DevFabricioLopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  height="200"
+/>
 
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFabricioLopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br/><br/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFabricioLopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  height="200"
+/>
 
 ![Snake animation](https://raw.githubusercontent.com/DevFabricioLopes/DevFabricioLopes/output/github-contribution-grid-snake-dark.svg)
 
