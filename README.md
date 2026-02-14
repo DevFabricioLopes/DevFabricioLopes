@@ -56,20 +56,6 @@ Sou apaixonado por transformar problemas reais em **sistemas inteligentes e esca
 
 ---
 
-## 📊 Estatísticas
-
-<p>
-  <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=DevFabricioLopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFabricioLopes&theme=tokyonight&layout=compact&langs_count=9"
-  />
-</p>
-
----
 
 ## 🐍 Contribuições
 
