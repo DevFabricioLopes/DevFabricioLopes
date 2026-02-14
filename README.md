@@ -74,3 +74,21 @@ Sou apaixonado por transformar problemas reais em **sistemas inteligentes e esca
 ## 🐍 Contribuições
 
 ![Snake animation](https://raw.githubusercontent.com/DevFabricioLopes/DevFabricioLopes/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevFabricioLopes&theme=radical&show_icons=true&hide_border=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DevFabricioLopes&theme=radical&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFabricioLopes&theme=radical&layout=compact&hide_border=false)
+
+---
+
+## 🔝 Top Contributed Repo
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=DevFabricioLopes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
