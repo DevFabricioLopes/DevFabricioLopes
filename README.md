@@ -9,13 +9,13 @@ Estou em constante aprendizado e interessado em oportunidades para atuar na áre
 
 ---
 
-🚀 Atualmente estudo e desenvolvo projetos envolvendo:
+## 🚀 Atualmente estudo e desenvolvo projetos envolvendo:
 
-🐍 Fundamentos sólidos de Python
-🌐 Desenvolvimento de APIs e consumo de serviços REST
-📊 Manipulação e tratamento de dados
-⚙️ Automação de tarefas e integração com APIs
-🧠 Conceitos iniciais de IA aplicada a projetos práticos
+- 🐍 Fundamentos sólidos de Python  
+- 🌐 Desenvolvimento de APIs e consumo de serviços REST  
+- 📊 Manipulação e tratamento de dados  
+- ⚙️ Automação de tarefas e integração com APIs  
+- 🧠 Conceitos iniciais de IA aplicada a projetos práticos  
 
 ---
 
