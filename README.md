@@ -72,8 +72,3 @@ Sou apaixonado por transformar problemas reais em **sistemas inteligentes e esca
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DevFabricioLopes/DevFabricioLopes/output/github-contribution-grid-snake-dark.svg"/>
-</p>
