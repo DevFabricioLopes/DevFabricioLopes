@@ -1,39 +1,48 @@
 
 # 👨🏻‍💻 Fabricio Lopes  
-Desenvolvedor Backend em evolução | Python • APIs • Automação • IA aplicada
 
-Sou formado em Análise e Desenvolvimento de Sistemas, com base sólida em engenharia de software, estrutura de sistemas e boas práticas de desenvolvimento.
+Backend Python & IA Aplicada | Integração de LLMs • APIs • Automação
 
-Tenho experiência prática com desenvolvimento e publicação de aplicações web, integração de APIs, automação de fluxos e deploy em ambientes Linux. Atualmente, concentro meus estudos e projetos em backend com Python e aplicação prática de Inteligência Artificial.
+Sou formado em Análise e Desenvolvimento de Sistemas, com base em engenharia de software e construção de sistemas estruturados.
 
-Meu foco é evoluir de forma consistente na construção de sistemas bem estruturados, escaláveis e integrados.
+Tenho experiência prática com deploy de aplicações web, integração de APIs, automação de fluxos e organização de ambientes com Docker e Linux.
 
-
----
-
-## 🚀 Foco Atual
-
-- 🐍 Desenvolvimento backend com Python  
-- 🌐 Criação e consumo de APIs REST  
-- ⚙️ Integração entre sistemas e automação de processos  
-- 📊 Manipulação e tratamento de dados  
-- 🧠 Aplicação prática de conceitos de IA em projetos reais  
+Atualmente, concentro meus projetos em backend com Python e aplicação prática de Inteligência Artificial integrada a APIs e dados em tempo real.
 
 ---
 
+# 🚀 Projeto em Destaque
 
-## 🌐 Contato
+## 🧠 Assistente de Finanças com IA (Cripto & Forex)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/fabr%C3%ADci0-lopes/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:devfabriciolopes@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" alt="Gmail"/>
-  </a>
-</p>
+Agente inteligente construído com arquitetura de integração entre LLM + ferramentas externas.
 
+### 🔹 O que o projeto faz:
+- Fornece análises estruturadas sobre criptomoedas e Forex  
+- Consulta preços em tempo real via API (CoinGecko e AwesomeAPI)  
+- Utiliza memória contextual para manter histórico da conversa  
+- Aplica controle de risco e restrições (sem recomendações diretas)  
+- Estrutura respostas com base em cenário macroeconômico e volatilidade  
+
+### 🔹 Stack utilizada:
+- Python (base conceitual e integração)
+- n8n (orquestração de fluxo)
+- LangChain Agent
+- LLM Llama-4 via Groq
+- Integração com APIs externas
+- Estrutura preparada para deploy
+
+🔗 Repositório: https://github.com/DevFabricioLopes/Agente_financas_cripto
+
+---
+
+## 🧠 Foco Atual
+
+- Desenvolvimento backend com Python  
+- Criação e consumo de APIs REST  
+- Integração entre LLMs e sistemas externos  
+- Manipulação e tratamento de dados  
+- Estruturação de projetos escaláveis
 
 ---
 
@@ -60,14 +69,16 @@ Meu foco é evoluir de forma consistente na construção de sistemas bem estrutu
 ---
 
 
-## 📈 Próximos Passos
+## 📈 Evolução Profissional
 
-- Consolidar arquitetura de APIs com FastAPI  
-- Estruturar projetos com boas práticas (clean code, organização modular)  
-- Desenvolver projetos aplicando IA integrada a backend  
-- Evoluir para aplicações mais robustas e escaláveis
+- Consolidar arquitetura backend com FastAPI  
+- Expandir projetos com IA aplicada a dados reais  
+- Melhorar organização de código e padrões de projeto  
+- Evoluir para aplicações mais robustas e escaláveis  
+
 
 ---
+
 
 ## 📊 Estatísticas
 
@@ -85,6 +96,17 @@ Meu foco é evoluir de forma consistente na construção de sistemas bem estrutu
 
 ---
 
+## 🌐 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/fabr%C3%ADci0-lopes/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:devfabriciolopes@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" alt="Gmail"/>
+  </a>
+</p>
 
 
 
