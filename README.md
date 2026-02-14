@@ -33,7 +33,6 @@ Estou em constante aprendizado e interessado em oportunidades para atuar na áre
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
 
 ## 🛠️ Tecnologias & Ferramentas
 
