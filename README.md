@@ -61,7 +61,6 @@ Sou apaixonado por transformar problemas reais em **sistemas inteligentes e esca
 
 ---
 
----
 
 ## 📊 Engineering Activity
 
