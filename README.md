@@ -8,7 +8,6 @@ Tenho experiência prática com desenvolvimento e publicação de aplicações w
 
 Meu foco é evoluir de forma consistente na construção de sistemas bem estruturados, escaláveis e integrados.
 
----
 
 ---
 
@@ -22,6 +21,7 @@ Meu foco é evoluir de forma consistente na construção de sistemas bem estrutu
 
 ---
 
+
 ## 🌐 Contato
 
 <p align="left">
@@ -33,6 +33,7 @@ Meu foco é evoluir de forma consistente na construção de sistemas bem estrutu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" alt="Gmail"/>
   </a>
 </p>
+
 
 ---
 
@@ -58,6 +59,7 @@ Meu foco é evoluir de forma consistente na construção de sistemas bem estrutu
 
 ---
 
+
 ## 📈 Próximos Passos
 
 - Consolidar arquitetura de APIs com FastAPI  
@@ -66,6 +68,7 @@ Meu foco é evoluir de forma consistente na construção de sistemas bem estrutu
 - Evoluir para aplicações mais robustas e escaláveis
 
 ---
+
 ## 📊 Estatísticas
 
 <p align="center">
