@@ -1,11 +1,11 @@
 # 👨🏻‍💻 Fabricio Lopes  
-**Python Developer | IA • RAG • LLMs**
+Desenvolvedor em formação | Python • Backend • APIs
 
-Me chamo Fabricio Lopes, sou formado em **Análise e Desenvolvimento de Sistemas** e atuo com foco em **Python, Inteligência Artificial e automação**.
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente foco meus estudos em desenvolvimento com Python, criação de APIs e automação.
 
-Tenho experiência desenvolvendo soluções que unem **IA generativa, RAG, pipelines de dados, integrações com APIs** e aplicações práticas orientadas ao negócio.
+Tenho construído projetos práticos envolvendo lógica de programação, consumo de APIs, manipulação de dados e organização de código, sempre buscando evoluir minha base técnica e aplicar boas práticas.
 
-Sou apaixonado por transformar problemas reais em **sistemas inteligentes e escaláveis**, sempre buscando aplicar boas práticas, aprender tecnologias de ponta e evoluir meus projetos com consistência.
+Estou em constante aprendizado e interessado em oportunidades para atuar na área de tecnologia, contribuindo com organização, responsabilidade e vontade de crescer como desenvolvedor.
 
 ---
 
