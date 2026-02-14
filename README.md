@@ -13,7 +13,9 @@ Atualmente, concentro meus projetos em backend com Python e aplicação prática
 
 # 🚀 Projeto em Destaque
 
+
 ## 🧠 Assistente de Finanças com IA (Cripto & Forex)
+
 
 Agente inteligente construído com arquitetura de integração entre LLM + ferramentas externas.
 
@@ -22,7 +24,8 @@ Agente inteligente construído com arquitetura de integração entre LLM + ferra
 - Consulta preços em tempo real via API (CoinGecko e AwesomeAPI)  
 - Utiliza memória contextual para manter histórico da conversa  
 - Aplica controle de risco e restrições (sem recomendações diretas)  
-- Estrutura respostas com base em cenário macroeconômico e volatilidade  
+- Estrutura respostas com base em cenário macroeconômico e volatilidade
+  
 
 ### 🔹 Stack utilizada:
 - Python (base conceitual e integração)
