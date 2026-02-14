@@ -55,11 +55,11 @@ Sou apaixonado por transformar problemas reais em **sistemas inteligentes e esca
 </p>
 
 ---
-## 📊 Engineering Activity
+## 📊 Estatísticas
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=DevFabricioLopes&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=DevFabricioLopes&limit=3&theme=tokyonight&combine_all_yearly_contributions=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DevFabricioLopes&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=DevFabricioLopes&limit=3&theme=tokyonight&combine_all_yearly_contributions=true" height="170"/>
 </p>
 
 ---
