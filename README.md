@@ -1,21 +1,24 @@
+
 # 👨🏻‍💻 Fabricio Lopes  
-Desenvolvedor em formação | Python • Backend • APIs
+Desenvolvedor Backend em evolução | Python • APIs • Automação • IA aplicada
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente foco meus estudos em desenvolvimento com Python, criação de APIs e automação.
+Sou formado em Análise e Desenvolvimento de Sistemas, com base sólida em engenharia de software, estrutura de sistemas e boas práticas de desenvolvimento.
 
-Tenho construído projetos práticos envolvendo lógica de programação, consumo de APIs, manipulação de dados e organização de código, sempre buscando evoluir minha base técnica e aplicar boas práticas.
+Tenho experiência prática com desenvolvimento e publicação de aplicações web, integração de APIs, automação de fluxos e deploy em ambientes Linux. Atualmente, concentro meus estudos e projetos em backend com Python e aplicação prática de Inteligência Artificial.
 
-Estou em constante aprendizado e interessado em oportunidades para atuar na área de tecnologia, contribuindo com organização, responsabilidade e vontade de crescer como desenvolvedor.
+Meu foco é evoluir de forma consistente na construção de sistemas bem estruturados, escaláveis e integrados.
 
 ---
 
-## 🚀 Atualmente estudo e desenvolvo projetos envolvendo:
+---
 
-- 🐍 Fundamentos sólidos de Python  
-- 🌐 Desenvolvimento de APIs e consumo de serviços REST  
+## 🚀 Foco Atual
+
+- 🐍 Desenvolvimento backend com Python  
+- 🌐 Criação e consumo de APIs REST  
+- ⚙️ Integração entre sistemas e automação de processos  
 - 📊 Manipulação e tratamento de dados  
-- ⚙️ Automação de tarefas e integração com APIs  
-- 🧠 Conceitos iniciais de IA aplicada a projetos práticos  
+- 🧠 Aplicação prática de conceitos de IA em projetos reais  
 
 ---
 
@@ -46,8 +49,21 @@ Estou em constante aprendizado e interessado em oportunidades para atuar na áre
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+
+---
+
+## 📈 Próximos Passos
+
+- Consolidar arquitetura de APIs com FastAPI  
+- Estruturar projetos com boas práticas (clean code, organização modular)  
+- Desenvolver projetos aplicando IA integrada a backend  
+- Evoluir para aplicações mais robustas e escaláveis
 
 ---
 ## 📊 Estatísticas
