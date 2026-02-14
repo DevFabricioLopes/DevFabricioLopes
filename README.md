@@ -55,6 +55,16 @@ Sou apaixonado por transformar problemas reais em **sistemas inteligentes e esca
 </p>
 
 ---
+## 📊 Engineering Activity
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=DevFabricioLopes&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=DevFabricioLopes&limit=3&theme=tokyonight&combine_all_yearly_contributions=true" height="170"/>
+</p>
+
+---
+
+
 ## 🐍 Contribuições
 
 ![Snake animation](https://raw.githubusercontent.com/DevFabricioLopes/DevFabricioLopes/output/github-contribution-grid-snake-dark.svg)
@@ -62,12 +72,5 @@ Sou apaixonado por transformar problemas reais em **sistemas inteligentes e esca
 ---
 
 
-## 📊 Engineering Activity
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DevFabricioLopes&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=DevFabricioLopes&limit=3&theme=tokyonight&combine_all_yearly_contributions=true" height="170"/>
-</p>
-
----
 
