@@ -1,62 +1,57 @@
 
 # 👨🏻‍💻 Fabricio Lopes  
 
-Backend Python & IA Aplicada | Integração de LLMs • APIs • Automação
+Backend Python • Integração de APIs • IA Aplicada  
 
-Sou formado em Análise e Desenvolvimento de Sistemas, com base em engenharia de software e construção de sistemas estruturados.
+Sou formado em Análise e Desenvolvimento de Sistemas, com base sólida em engenharia de software e construção de sistemas estruturados.
 
-Tenho experiência prática com deploy de aplicações web, integração de APIs, automação de fluxos e organização de ambientes com Docker e Linux.
+Possuo experiência prática com desenvolvimento backend, integração de APIs, automação de fluxos e organização de ambientes com Docker e Linux.
 
-Atualmente, concentro meus projetos em backend com Python e aplicação prática de Inteligência Artificial integrada a APIs e dados em tempo real.
+Atualmente direciono meus projetos para backend com Python e aplicação prática de Inteligência Artificial integrada a APIs e dados em tempo real.
 
 ---
 
-🎓 Formação & Base Técnica
+## 🎓 Formação & Base Técnica
 
-Formado em Análise e Desenvolvimento de Sistemas, com aprofundamento prático em:
+Durante minha formação acadêmica, desenvolvi fundamentos práticos em:
 
-Engenharia de Software
+- Engenharia de Software  
+- Modelagem UML e Análise de Requisitos  
+- Arquitetura e Sistemas Distribuídos  
+- Banco de Dados  
+- Desenvolvimento Web (Front-end e Back-end)  
+- Usabilidade e Experiência do Usuário (UX)  
 
-Modelagem UML e análise de requisitos
-
-Arquitetura e Sistemas Distribuídos
-
-Banco de Dados
-
-Desenvolvimento Web (Front-end e Back-end)
-
-Princípios de UX e Usabilidade
-
-Essa base fundamenta meus projetos atuais em backend Python e integração de IA.
-
+Essa base sustenta a organização e estrutura dos meus projetos atuais em backend e IA aplicada.
 
 ---
 
 # 🚀 Projeto em Destaque
 
-
 ## 🧠 Assistente de Finanças com IA (Cripto & Forex)
 
+Agente inteligente que integra modelo de linguagem com APIs externas para análise estruturada de mercado.
 
-Agente inteligente construído com arquitetura de integração entre LLM + ferramentas externas.
+### 🔹 Funcionalidades
 
-### 🔹 O que o projeto faz:
-- Fornece análises estruturadas sobre criptomoedas e Forex  
-- Consulta preços em tempo real via API (CoinGecko e AwesomeAPI)  
-- Utiliza memória contextual para manter histórico da conversa  
-- Aplica controle de risco e restrições (sem recomendações diretas)  
-- Estrutura respostas com base em cenário macroeconômico e volatilidade
-  
+- Consulta de preços em tempo real (CoinGecko e AwesomeAPI)  
+- Geração de análises com base em cenário e volatilidade  
+- Memória contextual para manter histórico da conversa  
+- Regras de controle de risco (sem recomendações diretas)  
+- Orquestração de fluxo com n8n  
 
-### 🔹 Stack utilizada:
-- Python (base conceitual e integração)
-- n8n (orquestração de fluxo)
-- LangChain Agent
-- LLM Llama-4 via Groq
-- Integração com APIs externas
-- Estrutura preparada para deploy
+### 🔹 Stack Utilizada
 
-🔗 Repositório: https://github.com/DevFabricioLopes/Agente_financas_cripto
+- Python  
+- FastAPI (estrutura preparada para API própria)  
+- LangChain  
+- LLM via Groq  
+- n8n  
+- Docker  
+- Integração com APIs externas  
+
+🔗 Repositório:  
+https://github.com/DevFabricioLopes/Agente_financas_cripto
 
 ---
 
