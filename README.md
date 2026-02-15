@@ -11,6 +11,27 @@ Atualmente, concentro meus projetos em backend com Python e aplicação prática
 
 ---
 
+🎓 Formação & Base Técnica
+
+Formado em Análise e Desenvolvimento de Sistemas, com aprofundamento prático em:
+
+Engenharia de Software
+
+Modelagem UML e análise de requisitos
+
+Arquitetura e Sistemas Distribuídos
+
+Banco de Dados
+
+Desenvolvimento Web (Front-end e Back-end)
+
+Princípios de UX e Usabilidade
+
+Essa base fundamenta meus projetos atuais em backend Python e integração de IA.
+
+
+---
+
 # 🚀 Projeto em Destaque
 
 
