@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻 Fabricio Lopes  
 
-Backend Python focado em IA aplicada, Arquitetura de Agentes Inteligentes e Integração de Sistemas
+Backend Python focado em IA aplicada, Arquitetura de Agentes e Integração de Sistemas
 
 Sou formado em Análise e Desenvolvimento de Sistemas, com base sólida em engenharia de software e construção de sistemas estruturados.
 
