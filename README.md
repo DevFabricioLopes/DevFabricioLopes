@@ -7,7 +7,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, com base sólida em engen
 
 Possuo experiência prática com desenvolvimento backend, integração de APIs, automação de fluxos e organização de ambientes com Docker e Linux.
 
-Atualmente direciono meus projetos para arquitetura backend com Python e aplicação prática de Inteligência Artificial integrada a APIs e dados em tempo real, com foco em organização estrutural, escalabilidade e integração entre sistemas.
+Atualmente direciono meus projetos para arquitetura backend com Python e aplicação prática de Inteligência Artificial integrada a dados e APIs externas, com foco em escalabilidade e organização estrutural.
 
 ---
 
