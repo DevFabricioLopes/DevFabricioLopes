@@ -13,16 +13,17 @@ Atualmente direciono meus projetos para backend com Python e aplicação prátic
 
 ## 🎓 Formação & Base Técnica
 
-Durante minha formação acadêmica, desenvolvi fundamentos práticos em:
+Durante minha formação em Análise e Desenvolvimento de Sistemas, consolidei fundamentos em:
 
-- Engenharia de Software  
+- Engenharia e Qualidade de Software  
 - Modelagem UML e Análise de Requisitos  
-- Arquitetura e Sistemas Distribuídos  
-- Banco de Dados  
+- Arquitetura de Sistemas e Sistemas Distribuídos  
+- Modelagem e Implementação de Banco de Dados  
 - Desenvolvimento Web (Front-end e Back-end)  
-- Usabilidade e Experiência do Usuário (UX)  
+- Princípios de Usabilidade e Experiência do Usuário (UX)  
 
-Essa base sustenta a organização e estrutura dos meus projetos atuais em backend e IA aplicada.
+Esses fundamentos orientam a estrutura, organização e escalabilidade dos meus projetos atuais.
+
 
 ---
 
