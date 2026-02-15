@@ -7,7 +7,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, com base sólida em engen
 
 Possuo experiência prática com desenvolvimento backend, integração de APIs, automação de fluxos e organização de ambientes com Docker e Linux.
 
-Atualmente direciono meus projetos para backend com Python e aplicação prática de Inteligência Artificial integrada a APIs e dados em tempo real.
+Atualmente direciono meus projetos para arquitetura backend com Python e aplicação prática de Inteligência Artificial integrada a APIs e dados em tempo real, com foco em organização estrutural, escalabilidade e integração entre sistemas.
 
 ---
 
@@ -31,7 +31,7 @@ Esses fundamentos orientam a estrutura, organização e escalabilidade dos meus 
 
 ## 🧠 Assistente de Finanças com IA (Cripto & Forex)
 
-Projeto de arquitetura de agente inteligente para suporte à decisão em cenários de volatilidade financeira, integrando LLM com APIs de mercado em tempo real.
+Projeto de arquitetura de agente inteligente orientado à integração de sistemas e suporte à decisão em cenários de volatilidade financeira...
 
 ### 🔹 Funcionalidades
 
@@ -78,24 +78,19 @@ https://github.com/DevFabricioLopes/Agente_financas_cripto
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  
 </p>
 
 
 ---
 
 
-## 📈 Evolução Profissional
+## 📈 Direção Profissional
 
-- Consolidar arquitetura backend com FastAPI  
-- Expandir projetos com IA aplicada a dados reais  
-- Melhorar organização de código e padrões de projeto  
-- Evoluir para aplicações mais robustas e escaláveis  
-
+- Evoluir arquiteturas backend orientadas a microsserviços
+- Estruturar aplicações com IA integrada a fluxos reais de negócio
+- Aplicar padrões de projeto e boas práticas em ambientes escaláveis
+- Consolidar visão sistêmica entre dados, backend e tomada de decisão
 
 ---
 
