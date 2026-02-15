@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻 Fabricio Lopes  
 
-Backend Python • Integração de APIs • IA Aplicada  
+Backend Python focado em IA aplicada, RAG e Integração de Sistemas
 
 Sou formado em Análise e Desenvolvimento de Sistemas, com base sólida em engenharia de software e construção de sistemas estruturados.
 
@@ -31,7 +31,7 @@ Esses fundamentos orientam a estrutura, organização e escalabilidade dos meus 
 
 ## 🧠 Assistente de Finanças com IA (Cripto & Forex)
 
-Agente inteligente que integra modelo de linguagem com APIs externas para análise estruturada de mercado.
+Projeto de arquitetura de agente inteligente para suporte à decisão em cenários de volatilidade financeira, integrando LLM com APIs de mercado em tempo real.
 
 ### 🔹 Funcionalidades
 
