@@ -31,15 +31,18 @@ Esses fundamentos orientam a estrutura, organização e escalabilidade dos meus 
 
 ## 🧠 Assistente de Finanças com IA (Cripto & Forex)
 
-Projeto de arquitetura de agente inteligente orientado à integração de sistemas e suporte à decisão em cenários de volatilidade financeira...
+Projeto de arquitetura de agente inteligente voltado para integração de dados financeiros em tempo real e suporte à tomada de decisão em cenários de alta volatilidade.
 
-### 🔹 Funcionalidades
+### 🔹 Principais Implementações
 
-- Consulta de preços em tempo real (CoinGecko e AwesomeAPI)  
-- Geração de análises com base em cenário e volatilidade  
-- Memória contextual para manter histórico da conversa  
-- Regras de controle de risco (sem recomendações diretas)  
-- Orquestração de fluxo com n8n  
+- Integração com múltiplas APIs financeiras (CoinGecko e AwesomeAPI)
+- Consolidação e tratamento de dados de mercado em tempo real
+- Geração de análises contextualizadas via LLM
+- Implementação de memória conversacional para continuidade analítica
+- Aplicação de regras de controle de risco
+- Orquestração de fluxos com n8n
+- Estrutura preparada para exposição como API via FastAPI
+
 
 ### 🔹 Stack Utilizada
 
@@ -58,11 +61,11 @@ https://github.com/DevFabricioLopes/Agente_financas_cripto
 
 ## 🧠 Foco Atual
 
-- Desenvolvimento backend com Python  
-- Criação e consumo de APIs REST  
-- Integração entre LLMs e sistemas externos  
+- Arquitetura backend orientada a serviços
+- Integração de LLMs com sistemas externos
+- Estruturação de pipelines de dados para IA aplicada
 - Manipulação e tratamento de dados  
-- Estruturação de projetos escaláveis
+- Evolução para arquiteturas escaláveis e desacopladas
 
 ---
 
